@@ -2,6 +2,9 @@
 
 WordPress üzerinde anime ve dizi arşivi oluşturmak için geliştirilmiş bir tema.
 
+<img width="1919" height="1079" alt="Ekran görüntüsü 2026-10-06 154532" src="https://github.com/user-attachments/assets/0ef83a74-2740-42a1-aa63-4283a30d4c78" />
+
+
 Bu tema hazırlanırken, artık aktif olmayan **TürkAnime** sitesinin kullandığı arayüz ve kullanım deneyiminden önemli ölçüde esinlenilmiştir. Özellikle anime listeleme, anime detay sayfaları, bölüm yapısı, video oynatıcı ve kullanıcı tarafındaki bazı özellikler bu yapıya yakın tutulmuştur. Bununla birlikte tema, eski sitenin birebir kopyası olmak yerine WordPress'e uygun yeni bir altyapı üzerine kurulmuştur.
 
 Temel amacı, klasik bir WordPress blogunu anime sitesine çevirmekten ziyade; animelerin, bölümlerin, video kaynaklarının ve kullanıcı özelliklerinin ayrı ayrı yönetilebildiği bir anime arşiv sistemi sunmaktır.
@@ -21,6 +24,8 @@ Animeler ve bölümler WordPress'in özel içerik türleri kullanılarak birbiri
 ### Video oynatıcı
 
 Bir bölüm için birden fazla video kaynağı eklenebilir.
+
+<img width="1919" height="1079" alt="Ekran görüntüsü 2026-10-06 154608" src="https://github.com/user-attachments/assets/1d76d33a-07f7-4d37-953e-9f537100094f" />
 
 Desteklenen kaynaklar:
 
