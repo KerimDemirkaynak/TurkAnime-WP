@@ -1,0 +1,15 @@
+/*
+Theme Name: TürkAnime — Anime Teması
+Theme URI: https://github.com/kerimdemirkaynak/turkanime-wp
+Author: Kerim Demirkaynak
+Description: Anime / dizi arşiv siteleri için hızlı, özelleştirilebilir WordPress teması. Gelişmiş oynatıcı (çoklu kaynak, HLS/MP4, otomatik sonraki bölüm, izleme geçmişi), AniList entegrasyonu, toplu bölüm ekleme, spoiler'lı yorumlar ve kapsamlı Özelleştirici seçenekleri içerir.
+Version: 2.5.4
+Requires at least: 5.8
+Tested up to: 6.6
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: anizen
+Tags: dark-mode, custom-colors, custom-logo, custom-menu, featured-images, translation-ready, entertainment
+*/
+/* Tüm stiller assets/css/main.css içindedir. */
