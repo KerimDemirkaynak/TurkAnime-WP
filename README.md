@@ -2,6 +2,12 @@
 
 WordPress üzerinde anime ve dizi arşivi oluşturmak için geliştirilmiş bir tema.
 
+[![Latest Release](https://img.shields.io/github/v/release/KerimDemirkaynak/TurkAnime-WP?label=Sürüm&color=blue)](https://github.com/KerimDemirkaynak/TurkAnime-WP/releases)
+[![License](https://img.shields.io/github/license/KerimDemirkaynak/TurkAnime-WP?label=Lisans)](https://github.com/KerimDemirkaynak/TurkAnime-WP/blob/main/LICENSE)
+[![GitHub Release Date](https://img.shields.io/github/release-date/KerimDemirkaynak/TurkAnime-WP?label=Yayın%20Tarihi)](https://github.com/KerimDemirkaynak/TurkAnime-WP/releases)
+[![GitHub Stars](https://img.shields.io/github/stars/KerimDemirkaynak/TurkAnime-WP?label=Yıldız)](https://github.com/KerimDemirkaynak/TurkAnime-WP/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/KerimDemirkaynak/TurkAnime-WP?label=Issues)](https://github.com/KerimDemirkaynak/TurkAnime-WP/issues)
+
 <img width="1919" height="1079" alt="Ekran görüntüsü 2026-10-06 154532" src="https://github.com/user-attachments/assets/0ef83a74-2740-42a1-aa63-4283a30d4c78" />
 
 
